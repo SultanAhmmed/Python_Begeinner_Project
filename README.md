@@ -1,1 +1,1 @@
-# TipCalculatorInPython
+# Python Begeinner Project
